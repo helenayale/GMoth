@@ -12,7 +12,7 @@ library(sf)
 
 
 
-setwd('D:/Haiyin/Final')
+setwd('D:/DataRepository')
 
 
 # load former defoliation data
