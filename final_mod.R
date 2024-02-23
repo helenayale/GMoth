@@ -10,7 +10,7 @@ library(caret)
 library(sf)
 
 
-setwd('D:/Haiyin/Final')
+setwd('D:/DataRepository')
 
 ## read files
 
